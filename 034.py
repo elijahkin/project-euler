@@ -1,3 +1,6 @@
+# 40730
+# Found answer in 2.3881490230560303 seconds
+
 import math
 
 def digitFactorial(x):

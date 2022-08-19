@@ -1,3 +1,6 @@
+# 210
+# Found answer in 0.156937837600708 seconds
+
 fractionalPart = ''
 i=1
 while len(fractionalPart) < 1000000:

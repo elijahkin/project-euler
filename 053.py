@@ -1,3 +1,6 @@
+# 4075
+# Found answer in 0.05694413185119629 seconds
+
 import math
 
 count = 0

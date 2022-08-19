@@ -1,3 +1,6 @@
+# 232792560
+# Found answer in 104.99480199813843 seconds
+
 def evenlyDivisbleForAllSmallerY(x, y):
     for i in range(1, y+1):
         if x % i != 0:

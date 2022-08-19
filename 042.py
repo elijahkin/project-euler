@@ -1,3 +1,6 @@
+# 162
+# Found answer in 0.0711669921875 seconds
+
 def nthTriangle(x):
     return int((0.5*(x**2+x)))
 

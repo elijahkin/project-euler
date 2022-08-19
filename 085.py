@@ -1,3 +1,6 @@
+# 2772
+# Found answer in 0.05600690841674805 seconds
+
 def rect(x, y):
     return int(x*(x+1)*y*(y+1)/4)
 

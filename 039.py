@@ -1,3 +1,6 @@
+# 840
+# Found answer in 37.03937101364136 seconds
+
 counts = []
 
 for p in range(1, 1001):

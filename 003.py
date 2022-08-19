@@ -1,3 +1,6 @@
+# 6857
+# Found answer in 0.04079723358154297 seconds
+
 def largest_prime_factor(n):
     d = 2
     while d != n:

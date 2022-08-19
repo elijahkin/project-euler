@@ -1,3 +1,6 @@
+# 142913828922
+# Found answer in 9.926677942276001 seconds
+
 def isPrime(x):
     if (x % 10) in [0, 2, 4, 5, 6, 8] or x == 1:
         return False

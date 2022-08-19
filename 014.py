@@ -1,3 +1,6 @@
+# 837799
+# Found answer in 24.736983060836792 seconds
+
 def collatz(x):
     iterations = 1
     while x != 1:
@@ -11,4 +14,4 @@ def collatz(x):
 chains = []
 for i in range(0, 1000001):
     chains.append(collatz(i))
-print("Chain of", max(chains), "at i=", chains.index(max(chains)))
+print(chains.index(max(chains)))

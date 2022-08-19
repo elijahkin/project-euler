@@ -1,3 +1,6 @@
+# 9183
+# Found answer in 0.44922804832458496 seconds
+
 distinctPowers = []
 
 max = 101

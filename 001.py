@@ -1,9 +1,5 @@
-# Brute force (SLOW)
-# sum = 0
-# for i in range(1000):
-#     if (i % 3 == 0) or (i % 5 == 0):
-#         sum += i
-# print(sum)
+# 233168
+# Found answer in 0.04070091247558594 seconds
 
 # Returns sum of all multiples of m less than n
 def sum_multiples_up_to(m, n):

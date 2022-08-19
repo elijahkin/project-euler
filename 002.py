@@ -1,3 +1,6 @@
+# 4613732
+# Found answer in 0.04607987403869629 seconds
+
 fibonacci = [1,1,1]
 evenFibonnaci = []
 counter = 0

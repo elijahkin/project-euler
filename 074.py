@@ -1,4 +1,5 @@
-#Correctly answered 402 when run on Google Colab
+# 402
+# Found answer in 76.30770516395569 seconds
 
 import math
 

@@ -1,3 +1,6 @@
+# 26241
+# Found answer in 6.486253023147583 seconds
+
 def isPrime(x):
     if x == 2 or x == 5:
         return True

@@ -1,4 +1,5 @@
-#Correctly answered 972 in 4.726 seconds
+# 972
+# Found answer in 0.1868419647216797 seconds
 
 def digitalSum(a, b):
     return sum([int(i) for i in str(a**b)])

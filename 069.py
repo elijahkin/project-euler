@@ -1,7 +1,7 @@
-import math
-import time
+# 510510
+# Found answer in 48.46291732788086 seconds
 
-t = time.time()
+import math
 
 maxN = 10**6
 recordRatio = 0
@@ -33,14 +33,9 @@ def totient(n):
             coprimesCount *= ((d-1)/d)
     return coprimesCount
 
-
 for n in range(2, maxN):
     ratio = n / totient(n)
     if ratio > recordRatio:
         record = n
         recordRatio = ratio
-print(record, recordRatio)
-
-print(time.time() - t)
-# old - 177s
-# new - 0.05s
+print(record)

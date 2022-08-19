@@ -1,4 +1,5 @@
-#Correctly answered 153 in 0.24 seconds
+# 153
+# Found answer in 0.0450589656829834 seconds
 
 numerators = [3]
 denominators = [2]

@@ -1,3 +1,6 @@
+# 748317
+# Found answer in 3.805327892303467 seconds
+
 def isPrime(x):
     if x == 2 or x == 5:
         return True
@@ -31,8 +34,4 @@ for i in primes:
     if isTruncatablePrime(i) == True:
         truncatablePrimes.append(i)
 
-print(truncatablePrimes)
-print(len(truncatablePrimes))
 print(sum(truncatablePrimes))
-
-#Answer (748317) calculated in 20.146 seconds

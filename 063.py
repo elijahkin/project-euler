@@ -1,3 +1,6 @@
+# 49
+# Found answer in 0.04512786865234375 seconds
+
 n = 1
 count = 0
 

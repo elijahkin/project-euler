@@ -1,3 +1,6 @@
+# 76576500
+# Found answer in 3.1025078296661377 seconds
+
 def triangle(x):
     return int(0.5*(x**2+x))
 

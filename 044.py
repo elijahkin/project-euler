@@ -1,3 +1,6 @@
+# 5482660
+# Found answer in 2.561389923095703 seconds
+
 def is_pentagonal(P):
     n = (1+(1+24*P)**0.5)/6
     return (n % 1 == 0)

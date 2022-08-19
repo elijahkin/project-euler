@@ -1,3 +1,6 @@
+# 137846528820
+# Found answer in 0.047219276428222656 seconds
+
 def lattice_paths(n):
 
     # Set up matrix

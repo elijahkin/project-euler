@@ -1,4 +1,5 @@
-#Correctly answered 249 in 0.511 seconds
+# 249
+# Found answer in 0.1804201602935791 seconds
 
 def flip(n):
     return int(str(n)[::-1])
@@ -21,5 +22,4 @@ lychrels = []
 for i in range(10001):
     if isLychrel(i) == True:
         lychrels.append(i)
-print(lychrels)
 print(len(lychrels))

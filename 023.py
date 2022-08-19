@@ -1,3 +1,6 @@
+# 4179871
+# Found answer in 15.79760193824768 seconds
+
 def isAbundant(x):
     factors = []
     for i in range(1, int(x/2+1)):

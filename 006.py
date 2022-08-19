@@ -1,3 +1,6 @@
+# 25164150
+# Found answer in 0.04280424118041992 seconds
+
 def sumOfSquares(x):
     sumOfSquares = 0
     for i in range(1, x+1):

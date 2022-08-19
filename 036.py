@@ -1,3 +1,6 @@
+# 872187
+# Found answer in 0.8918290138244629 seconds
+
 import math
 
 palindromes = []

@@ -1,3 +1,6 @@
+# [142857]
+# Found answer in 3.3202037811279297 seconds
+
 def isPermutedMultiple(x, multiplier):
     xDigits = [int(i) for i in str(x)]
     yDigits = [int(i) for i in str(x*multiplier)]

@@ -1,3 +1,6 @@
+# 906609
+# Found answer in 0.36310815811157227 seconds
+
 palindromes = []
 for multiplier1 in range(100, 1000):
     for multiplier2 in range(100, 1000):
